@@ -12,7 +12,7 @@ I'm a passionate **[Junior software Engineer]** with experience in **Html,Css an
 - 🔭 Working on: **current projects or side-projects**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **Miki1020star@gmail.com**
-- ⚡ Fun fact: **I love solving hard problem**
+- ⚡ Fun fact: **I love solving challenging problem**
 
 ## My Skills 🧠
 
